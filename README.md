@@ -211,10 +211,15 @@ Adherence to Ethical Standards:
 
 
 REFERENCES:
+
 Pressman, R. S. (2019). Software engineering: A practitioner's approach (9th ed.). McGraw-Hill Education.
+
 Serrador, P., & Pinto, J. K. (2015). Does agile work? - A quantitative analysis of agile project success. International Journal of Project Management, 33(5), 1040–1051. https://doi.org/10.1016/j.ijproman.2015.01.006
+
 Schwalbe, K. (2020). Information technology project management (9th ed.). Cengage Learning.
+
 Gotterbarn, D. (2020). Software engineering code of ethics. Encyclopedia of Software Engineering. https://doi.org/10.1002/9780470050118.ecse570
+
 PMI. (2023, October 10). PMI Ahead of the Curve: Forging a Future-Focused Culture. Pulse of the Profession. Retrieved from https://www.pmi.org/learning/library/forging-future-focused-culture-11908
 
 
